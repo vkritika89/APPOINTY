@@ -1,5 +1,8 @@
 APPOINTY Tech Recruitment - Task Submission - VIT (Nov '20)
 
+### **OUTPUT ON POSTMAN**
+
+
 ### **Create an article**
 
 
