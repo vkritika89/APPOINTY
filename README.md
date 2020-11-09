@@ -47,3 +47,6 @@ URL should be ‘/articles’
 
 ![GetAllArticles2](https://user-images.githubusercontent.com/61796895/98542113-6e9b5d00-22b6-11eb-835e-6f5ff8558129.PNG)
 
+### **MONGO DB CREATED**
+
+![MongoDBcreated](https://user-images.githubusercontent.com/61796895/98544543-2d0cb100-22ba-11eb-8226-c87f2727a05e.PNG)
