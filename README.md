@@ -1,4 +1,4 @@
-APPOINTY Tech Recruitment - Task Submission - VIT (Nov '20)
+ 
 ### **KRITIKA VERMA-17BEC1182**
 
 ### **OUTPUT ON POSTMAN**
